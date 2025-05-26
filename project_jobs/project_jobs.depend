@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1747921589 source:d:\facultate\anul 1\semestrul 2\p2\recapitulare\pp grup\aplicant.cpp
+	"Aplicant.h"
+
+1747923037 d:\facultate\anul 1\semestrul 2\p2\recapitulare\pp grup\aplicant.h
+	<string>
+	<vector>
+	<iostream>
+
+1747921569 source:d:\facultate\anul 1\semestrul 2\p2\recapitulare\pp grup\job.cpp
+	"Job.h"
+
+1747923011 d:\facultate\anul 1\semestrul 2\p2\recapitulare\pp grup\job.h
+	<string>
+	<vector>
+	<iostream>
+
+1747921834 source:d:\facultate\anul 1\semestrul 2\p2\recapitulare\pp grup\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Job.h"
+	"Aplicant.h"
+	"utils.h"
+
+1747921868 source:d:\facultate\anul 1\semestrul 2\p2\recapitulare\pp grup\utils.cpp
+	"utils.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<cstdlib>
+
+1747921459 d:\facultate\anul 1\semestrul 2\p2\recapitulare\pp grup\utils.h
+	<string>
+	<vector>
+	"Job.h"
+	"Aplicant.h"
+
+1747923053 source:d:\facultate\anul 1\semestrul 2\proiect de programare\pp grup\aplicant.cpp
+	"Aplicant.h"
+
+1747923037 d:\facultate\anul 1\semestrul 2\proiect de programare\pp grup\aplicant.h
+	<string>
+	<vector>
+	<iostream>
+
+1747923025 source:d:\facultate\anul 1\semestrul 2\proiect de programare\pp grup\job.cpp
+	"Job.h"
+
+1747923011 d:\facultate\anul 1\semestrul 2\proiect de programare\pp grup\job.h
+	<string>
+	<vector>
+	<iostream>
+
+1748276255 source:d:\facultate\anul 1\semestrul 2\proiect de programare\pp grup\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"Job.h"
+	"Aplicant.h"
+	"utils.h"
+	"template_utils.h"
+
+1747921459 d:\facultate\anul 1\semestrul 2\proiect de programare\pp grup\utils.h
+	<string>
+	<vector>
+	"Job.h"
+	"Aplicant.h"
+
+1747923423 d:\facultate\anul 1\semestrul 2\proiect de programare\pp grup\template_utils.h
+	<iostream>
+	<vector>
+
+1747921868 source:d:\facultate\anul 1\semestrul 2\proiect de programare\pp grup\utils.cpp
+	"utils.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<cstdlib>
+

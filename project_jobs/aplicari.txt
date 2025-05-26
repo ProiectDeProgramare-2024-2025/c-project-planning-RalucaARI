@@ -1,0 +1,2 @@
+Ion Popescu|ion@email.com|0|html|css
+Elena Eleanor|elena.el@gmail.com|2|Swift|Xcode|iOS

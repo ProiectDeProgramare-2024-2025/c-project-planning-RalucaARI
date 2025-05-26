@@ -1,0 +1,11 @@
+General: ./proiect_jobs --help
+
+Student1.Angajator:
+./proiect_jobs --adauga-job "TitluJob" "Companie" "Skill1" "Skill2"
+./proiect_jobs --stergere-joburi  ->inca nu exista
+./proiect_jobs --aplicanti-job indexJob
+
+Student2.Angajat:
+./proiect_jobs --aplica "Nume" "Email" indexJob "Skill1" "Skill2"
+./proiect_jobs --filtreaza "skill"  ->Cauta un job dupa un skill
+./proiect_jobs --afiseaza-joburi
